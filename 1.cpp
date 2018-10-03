@@ -1,8 +1,8 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+using namespace std;
 int a = 10;
 int main()
 {
-	using namespace std;
 	int a = 15;
 	int *b;
 	b = &a;
